@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCoreAng", "SampleCoreAng.csproj", "{5E3E9495-9828-4A3F-8D70-F2DA2201F12F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample-Ng8Core3", "..\Sample-Ng8Core3\Sample-Ng8Core3.csproj", "{36EC4537-2994-4AE8-A5F2-2A721110240F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3E9495-9828-4A3F-8D70-F2DA2201F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3E9495-9828-4A3F-8D70-F2DA2201F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3E9495-9828-4A3F-8D70-F2DA2201F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3E9495-9828-4A3F-8D70-F2DA2201F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EC4537-2994-4AE8-A5F2-2A721110240F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EC4537-2994-4AE8-A5F2-2A721110240F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EC4537-2994-4AE8-A5F2-2A721110240F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EC4537-2994-4AE8-A5F2-2A721110240F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D5B60A-D201-473A-8F92-E968F3200F6C}
+	EndGlobalSection
+EndGlobal
